@@ -21,7 +21,7 @@ providing services such as AI, Cloud Modernization, and Automation.
 
 &mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
 
-&mdash; 15+ years javascript
+&mdash; 15+ years javascript development 
 
 &mdash; 10+ years Cloud Modernization and Migration
 
