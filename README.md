@@ -5,8 +5,6 @@ in the industries of health care, energy, investment banking, and
 technology. The Company is especially strong in health care industries
 providing services such as AI, Cloud Modernization, and Automation.
 
-[devops](devops.md)
-
 # Services
 
 &mdash; 30+ years Linux Open Source Software & Solutions
@@ -22,6 +20,8 @@ providing services such as AI, Cloud Modernization, and Automation.
 &mdash; 20+ years Enterprise Storage and Networking
 
 &mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
+
+&mdash; 15+ years javascript development 
 
 &mdash; 10+ years Cloud Modernization and Migration
 
