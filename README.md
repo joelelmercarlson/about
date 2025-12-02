@@ -5,6 +5,8 @@ in the industries of health care, energy, investment banking, and
 technology. The Company is especially strong in health care industries
 providing services such as AI, Cloud Modernization, and Automation.
 
+[devops](devops.md)
+
 # Services
 
 &mdash; 30+ years Linux Open Source Software & Solutions
