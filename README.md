@@ -29,6 +29,12 @@ providing services such as AI, Cloud Modernization, and Automation.
 
 &mdash; 5+ years AI development
 
+# DevOps
+
+Learn more about our Company's DevOps strategy and how it can help
+your organization.
+
+&mdash; [devops](devops.md)
 
 # About
 
