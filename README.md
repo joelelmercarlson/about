@@ -5,9 +5,26 @@ in the industries of health care, energy, investment banking, and
 technology. The Company is especially strong in health care industries
 providing services such as AI, Cloud Modernization, and Automation.
 
-# Services
+# About
 
-&mdash; 30+ years Linux Open Source Software & Solutions
+The Company's approach combines the deep technical expertise that
+enterprises demand with the agility to stay ahead of the technology
+curve. The team have over 30 years of successful Open Source Software 
+deployed in the most mission-critical enterprises. Our focus is on what
+we can do best to exceed our customers expectations.
+
+# DevOps
+
+Learn more about our Company's DevOps strategy and how it can help
+your organization. 
+
+&mdash; [devops](devops.md)
+
+&mdash; [consultant](consultant.md)
+
+# Trusted Technical Leadership &amp; Expertise
+
+&mdash; 30+ years Linux Open Source Software &amp; Solutions
 
 &mdash; 30+ years C/C++ development
 
@@ -28,21 +45,6 @@ providing services such as AI, Cloud Modernization, and Automation.
 &mdash; 10+ years containers and kubernetes
 
 &mdash; 5+ years AI development
-
-# DevOps
-
-Learn more about our Company's DevOps strategy and how it can help
-your organization.
-
-&mdash; [devops](devops.md)
-
-# About
-
-The Company's approach combines the deep technical expertise that
-enterprises demand with the agility to stay ahead of the technology
-curve. The team have over 30 years of successful Open Source Software 
-deployed in the most mission-critical enterprises. Our focus is on what
-we can do best to exceed our customers expectations.
 
 # Locations
 
