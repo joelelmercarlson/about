@@ -13,16 +13,7 @@ curve. The team have over 30 years of successful Open Source Software
 deployed in the most mission-critical enterprises. Our focus is on what
 we can do best to exceed our customers expectations.
 
-# DevOps
-
-Learn more about our Company's DevOps strategy and how it can help
-your organization. 
-
-&mdash; [devops](devops.md)
-
-&mdash; [consultant](consultant.md)
-
-# Trusted Technical Leadership &amp; Expertise
+# Trusted Technical Leadership
 
 &mdash; 30+ years Linux Open Source Software &amp; Solutions
 
@@ -45,6 +36,8 @@ your organization.
 &mdash; 10+ years containers and kubernetes
 
 &mdash; 5+ years AI development
+
+&mdash; Academy of Technology founding member. [academy_of_technology](https://github.com/joelelmercarlson/mission/)
 
 # Locations
 
