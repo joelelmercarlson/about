@@ -37,8 +37,6 @@ we can do best to exceed our customers expectations.
 
 &mdash; 5+ years AI development
 
-&mdash; The Consultancy [mission](https://github.com/joelelmercarlson/mission/)
-
 # Locations
 
 &mdash; North-America, Asia/Pacific.
