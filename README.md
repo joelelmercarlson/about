@@ -1,13 +1,13 @@
 # Joel E Carlson Consulting
 
-Joel E Carlson Consulting provides information technology services
+The Consultancy provides information technology services
 in the industries of health care, energy, investment banking, and
 technology. The Company is especially strong in health care industries
 providing services such as AI, Cloud Modernization, and Automation.
 
 # About
 
-The Company's approach combines the deep technical expertise that
+The Consultancy's approach combines the deep technical expertise that
 enterprises demand with the agility to stay ahead of the technology
 curve. The team have over 30 years of successful Open Source Software 
 deployed in the most mission-critical enterprises. Our focus is on what
@@ -37,7 +37,7 @@ we can do best to exceed our customers expectations.
 
 &mdash; 5+ years AI development
 
-&mdash; The Consultancey [mission](https://github.com/joelelmercarlson/mission/)
+&mdash; The Consultancy [mission](https://github.com/joelelmercarlson/mission/)
 
 # Locations
 
