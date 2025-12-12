@@ -1,6 +1,6 @@
 # Joel E Carlson Consulting
 
-<div style="font-size:12px;">
+<div style="text-align:center; font-size:12px;">
 
 [resume](resume.md) | [engineer](consultant.md) | [devops](devops.md)
 

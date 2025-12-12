@@ -1,6 +1,6 @@
-# Principal Engineer - Consultant
+# Joel E Carlson Consulting - Principal Engineer
 
-# Overview
+# About
 
 The Principal Engineer Consultant will provide external
 technical leadership and strategic guidance across critical engineering
@@ -12,6 +12,7 @@ permanent hire, ensuring access to world-class engineering leadership
 on demand.
 
 # Key Responsibilities
+
 - Strategic Advisory: Assess client systems and recommend long-term technical strategies aligned with business objectives.
 - Architecture & Design: Deliver high-level system designs and frameworks that ensure scalability, security, and performance.
 - Mentorship & Enablement: Coach internal engineering teams, accelerating their growth and technical maturity.
@@ -21,13 +22,15 @@ on demand.
 - Problem Resolution: Serve as the external escalation point for the most complex technical challenges.
 
 # Qualifications
--	10+ years of engineering experience with proven success in leadership and architecture roles.
--	Track record of delivering scalable, high-performance systems across diverse industries.
--	Expertise in modern software development practices, cloud platforms, and distributed systems.
--	Strong communication skills to influence both technical and executive stakeholders.
--	Experience working as an external consultant or advisor to multiple organizations.
+
+- 10+ years of engineering experience with proven success in leadership and architecture roles.
+- Track record of delivering scalable, high-performance systems across diverse industries.
+- Expertise in modern software development practices, cloud platforms, and distributed systems.
+- Strong communication skills to influence both technical and executive stakeholders.
+- Experience working as an external consultant or advisor to multiple organizations.
 
 # Desired Skills
+
 - Ability to quickly assess unfamiliar systems and environments.
 - Deep knowledge of DevOps, CI/CD, and modern infrastructure practices.
 - Strong analytical and problem-solving abilities.
@@ -41,3 +44,9 @@ enabling organizations to access senior-level technical leadership without
 long-term overhead. By combining strategic vision with hands-on expertise,
 the consultant ensures that engineering decisions drive sustainable
 business success.
+
+# Contact
+
+Lets talk about your project.
+
+&mdash; "Joel E Carlson" &lt;joel.elmer.carlson@outlook.com&gt;
