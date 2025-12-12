@@ -37,7 +37,7 @@ we can do best to exceed our customers expectations.
 
 &mdash; 5+ years AI development
 
-&mdash; Academy of Technology founding member. [academy_of_technology](https://github.com/joelelmercarlson/mission/)
+&mdash; The Consultancey [mission](https://github.com/joelelmercarlson/mission/)
 
 # Locations
 
