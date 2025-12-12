@@ -1,5 +1,9 @@
 # Joel E Carlson Consulting
 
+<div style="text-align:center; font-size:12px;">
+[resume](resume.md) | [engineer](consultant.md) | [devops](devops.md)
+</div>
+
 The Consultancy provides information technology services
 in the industries of health care, energy, investment banking, and
 technology. The Company is especially strong in health care industries
