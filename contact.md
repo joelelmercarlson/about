@@ -1,10 +1,9 @@
-# Joel E Carlson Consulting
+# Contact
 
 Lets talk about your project.
 
-&mdash; Joel.Elmer.Carlson@outlook.com
+"Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
 
 &mdash; [Company](https://github.com/joelelmercarlson/about)
 
-&mdash; [linkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)
-
+&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)

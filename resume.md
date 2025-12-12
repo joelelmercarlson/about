@@ -1,0 +1,40 @@
+# Joel E Carlson
+
+4445 St Andrew Drive Blaine, MN 55449 | joel.elmer.carlson@outlook.com | (612) 839-0754
+
+I am pursuing the role of Principal Engineer.  I have extensive automation
+expertise in Linux, NodeJS, Python, Haskell and cloud platforms. I will
+use my engineering acumen to deliver full-stack cloud-native and modern
+application practices.  I have over 30 years of enterprise production
+experience for the most demanding mission-critical workloads.
+
+&mdash; Github.com: https://github.com/joelelmercarlson
+
+&mdash; LinkedIN: https://www.linkedin.com/in/joel-carlson-290ba0
+
+ 
+# Experience
+
+Optum | Eden Prairie, MN | Principal Engineer | 2006 – 2025
+
+- Architecture & Engineering & Production Support for following platforms: RHEL, AIX, Ubuntu, Solaris, Exadata, Oracle, Hadoop, Kubernetes, VMWare, Nutanix.
+- DevOps Engineering & Production Support for following: GitHub, Jenkins, Ansible; Terraform, Kubernetes and containers.
+- Lead successful datacenter migrations into public clouds.
+- Lead, delivered results, for capital projects like datacenter rationalization.
+- Support and Engineer of Storage Area Network with Brocade/Broadcom.
+- Proven leadership w/ globally distributed teams.
+- Hands-On with customer facing commercialization: Tricare, Health Exchanges and HealthCare.gov.
+- Vendor relationship of key infrastructure partners: RedHat, HP, Dell, Brocade and VMWare.
+- Consistent delivery of leadership and innovative solutions to the company.
+
+# Experience
+
+Xcel Energy | Minneapolis, MN | IT Consultant | 2000 – 2006
+
+- Enterprise planning and operation of ISP services
+- Project Management and Technical Lead for distributed team of 2nd tier support
+- Hyper converged datacenters w/ voice, video, and data.
+
+# Education
+
+Bachelor of Arts in Computer Science | University of Minnesota, Morris MN | Graduated 1995
