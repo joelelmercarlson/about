@@ -11,7 +11,9 @@ value to our clients.
 [nodejs](https://nodejs.org/en) |
 [nvm](https://github.com/nvm-sh/nvm) |
 [python](https://www.python.org) |
+[redhat](https://www.redhat.com) |
 [stackage](https://www.stackage.org) |
+[ubuntu](https://www.ubuntu.com) |
 [uv](https://docs.astral.sh/uv)
 
 </div>
