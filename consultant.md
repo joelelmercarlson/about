@@ -1,7 +1,5 @@
 # Principal Engineer
 
-# About
-
 The Principal Engineer Consultant will provide external
 technical leadership and strategic guidance across critical engineering
 initiatives. As an independent expert, the consultant will partner with
@@ -45,8 +43,13 @@ long-term overhead. By combining strategic vision with hands-on expertise,
 the consultant ensures that engineering decisions drive sustainable
 business success.
 
+
 # Contact
 
 Lets talk about your project.
 
-&mdash; "Joel E Carlson" &lt;joel.elmer.carlson@outlook.com&gt;
+"Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
+
+&mdash; [Company](https://github.com/joelelmercarlson/about)
+
+&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)
