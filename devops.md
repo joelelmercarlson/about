@@ -1,4 +1,4 @@
-# Joel E Carlson Consulting - DevOps
+#  DevOps
 
 # Services
 - Requirements

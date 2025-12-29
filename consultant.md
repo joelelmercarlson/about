@@ -1,4 +1,4 @@
-# Joel E Carlson Consulting - Principal Engineer
+# Principal Engineer
 
 # About
 

@@ -1,6 +1,6 @@
 # tools
 
-The consultancy utilizes the following tools in day to day delivery of
+The Consultancy utilizes the following tools in day to day delivery of
 value to our clients.
 
 <div style="text-align:center; text-size:12px;">
