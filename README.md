@@ -1,12 +1,10 @@
-# Joel E Carlson Consulting
+# The Consultancy
 
 <div style="text-align:center; font-size:12px;">
 
 [resume](resume.md) | [automator](automator.md) | [consultant](consultant.md) | [devops](devops.md) | [hiring](hiring.md)
 
 </div>
-
-# About
 
 The Consultancy provides information technology services
 in the industries of health care, energy, investment banking, and
@@ -19,7 +17,7 @@ curve. The team have over 30 years of successful Open Source Software
 deployed in the most mission-critical enterprises. Our focus is on what
 we can do best to exceed our customers expectations.
 
-# Trusted Technical Leadership
+# Deep Technical Expertise &amp; Trusted Technical Leadership
 
 &mdash; 30+ years Linux Open Source Software &amp; Solutions
 
