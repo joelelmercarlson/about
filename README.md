@@ -2,7 +2,7 @@
 
 <div style="text-align:center; font-size:12px;">
 
-[resume](resume.md) | [engineer](consultant.md) | [devops](devops.md)
+[resume](resume.md) | [automator](automator.md) | [consultant](consultant.md) | [devops](devops.md) | [hiring](hiring.md)
 
 </div>
 
@@ -31,15 +31,17 @@ we can do best to exceed our customers expectations.
 
 &mdash; 20+ years hyper-scale datacenter virtualization and automation
 
-&mdash; 20+ years Enterprise Storage and Networking
+&mdash; 20+ years Enterprise Compute, Storage and Networking
 
 &mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
 
-&mdash; 15+ years javascript development 
+&mdash; 15+ years NodeJS development 
 
 &mdash; 10+ years Cloud Modernization and Migration
 
 &mdash; 10+ years containers and kubernetes
+
+&mdash; 5+ years Go development
 
 &mdash; 5+ years AI development
 
