@@ -6,19 +6,22 @@
 
 </div>
 
-The Consultancy provides information technology services
-in the industries of health care, energy, investment banking, and
-technology. The Company is especially strong in health care industries
-providing services such as AI, Cloud Modernization, and Automation.
+The Consultancy collaborates with world-leading organizations to improve
+business performance, turn risk into opportunities, enable powerful
+technologies and agile processes&mdash;enhancing value throughout the
+organization. From AI and Automation to advanced analytics and the cloud,
+we can help clients implement the art of the possible.
 
-The Consultancy's approach combines the deep technical expertise that
-enterprises demand with the agility to stay ahead of the technology
-curve. The team have over 30 years of successful Open Source Software 
-deployed in the most mission-critical enterprises. Our focus is on what
-we can do best to exceed our customers expectations.
+# Trusted Technical Leadership
 
-# Deep Technical Expertise &amp; Trusted Technical Leadership
+The Consultancy provides information technology services in the industries
+of health care, energy, investment banking, and technology. The Company
+is especially strong in health care industries providing services such
+as AI, Cloud Modernization, and Automation. The Consultancy's approach
+combines the deep technical expertise that enterprises demand with the
+agility to stay ahead of the technology curve.
 
+# Deep Technical Expertise
 &mdash; 30+ years Linux Open Source Software &amp; Solutions
 
 &mdash; 30+ years C/C++ development
@@ -33,7 +36,7 @@ we can do best to exceed our customers expectations.
 
 &mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
 
-&mdash; 15+ years NodeJS development 
+&mdash; 15+ years Java, Javascript, NodeJS development 
 
 &mdash; 10+ years Cloud Modernization and Migration
 
