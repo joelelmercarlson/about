@@ -2,7 +2,7 @@
 
 <div style="text-align:center; font-size:12px;">
 
-[resume](resume.md) | [automator](automator.md) | [consultant](consultant.md) | [devops](devops.md) | [hiring](hiring.md)
+[resume](resume.md) | [automator](automator.md) | [consultant](consultant.md) | [devops](devops.md)
 
 </div>
 
