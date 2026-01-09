@@ -6,12 +6,6 @@
 
 </div>
 
-The Consultancy collaborates with world-leading organizations to improve
-business performance, turn risk into opportunities, enable powerful
-technologies and agile processes&mdash;enhancing value throughout the
-organization. From AI and Automation to Analytics and the Cloud,
-we can help clients implement the art of the possible.
-
 # Trusted Technical Leadership
 
 The Consultancy provides information technology services in the industries
@@ -22,6 +16,12 @@ combines the deep technical expertise that enterprises demand with the
 agility to stay ahead of the technology curve.
 
 # Deep Technical Expertise
+
+The Consultancy collaborates with world-leading organizations to enable
+powerful technologies and agile processes&mdash;enhancing value and
+impact. From AI and Automation to Analytics and the Cloud, we can help
+clients implement the art of the possible.
+
 &mdash; 30+ years Linux Open Source Software &amp; Solutions
 
 &mdash; 30+ years C/C++ development
@@ -35,6 +35,8 @@ agility to stay ahead of the technology curve.
 &mdash; 20+ years Enterprise Compute, Storage and Networking
 
 &mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
+
+&mdash; 15+ years SDN, SDS, IPAM, L0-L7 Full-stack, NF/NFV, DNS
 
 &mdash; 15+ years Java, Javascript, NodeJS development 
 
