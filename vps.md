@@ -17,7 +17,7 @@ in DNS, SDN, IPAM, edge-security, GTM/LTM, mesh-vpn and point-to-point
 
 &mdash; [aviatrix.ai](https://aviatrix.ai)
 
-# firewall, intelligenct edge
+# firewall, edge
 &mdash; [paloaltonetworks.com](https://www.paloaltonetworks.com)
 
 &mdash; [zscaler.com](https://www.zscaler.com)
