@@ -36,7 +36,9 @@ clients implement the art of the possible.
 
 &mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
 
-&mdash; 15+ years SDN, SDS, IPAM, L0-L7 Full-stack, NF/NFV, DNS
+&mdash; 20+ years DNS, L0-L7 Full-stack, GTM/LTM
+
+&mdash; 15+ years SDN, SDS, IPAM, NF/NFV
 
 &mdash; 15+ years Java, Javascript, NodeJS development 
 
