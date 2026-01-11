@@ -1,6 +1,6 @@
 # Joel E Carlson
 
-4445 St Andrew Drive Blaine, MN 55449 | joel.elmer.carlson@outlook.com | (612) 839-0754
+4445 St Andrews Drive Blaine, MN 55449 | joel.elmer.carlson@outlook.com | (612) 839-0754
 
 I am pursuing the role of Principal Engineer. I have extensive automation
 expertise in Linux, NodeJS, Python, Haskell and cloud platforms. I will
