@@ -4,9 +4,8 @@
 
 I am pursuing the role of Principal Engineer. I have extensive automation
 expertise in Linux, NodeJS, Python, Haskell and cloud platforms. I will
-use my engineering acumen to deliver full-stack cloud-native and modern
-application practices. I have over 30 years of enterprise production
-experience for the most demanding mission-critical workloads.
+use my extensive engineering experience to deliver AI, Automation and
+Cloud projects for the most mission-critical workloads.
 
 &mdash; Github.com: https://github.com/joelelmercarlson
 
@@ -15,16 +14,15 @@ experience for the most demanding mission-critical workloads.
  
 # Experience
 
-Optum | Eden Prairie, MN | Principal Engineer | 2006 – 2025
+Optum | Eden Prairie, MN | Principal Engineer | 2010 – 2025
 
 - Architecture & Engineering & Production Support for following platforms: Linux, RedHat Enterprise Linux, AIX, Ubuntu, Solaris, Exadata, Oracle, Hadoop, Kubernetes, VMWare, Nutanix.
 - DevOps Engineering & Production Support for following: GitHub, Jenkins, Ansible; Terraform, Kubernetes and containers.
 - Lead successful datacenter migrations into public clouds.
 - Lead, delivered results, for capital projects like datacenter rationalization.
-- Support and Engineer of Storage Area Network with Brocade/Broadcom.
 - Proven leadership w/ globally distributed teams.
-- Hands-On with customer facing commercialization: Tricare, Health Exchanges and HealthCare.gov.
-- Vendor relationship of key infrastructure partners: RedHat, HP, Dell, Brocade and VMWare.
+- Hands-On with customer facing commercialization: Tricare and HealthCare.gov.
+- Vendor relationship of key infrastructure partners: RedHat, HP, Dell, Broadcom/Brocade and VMWare.
 - Consistent delivery of leadership and innovative solutions to the company.
 
 # Education
