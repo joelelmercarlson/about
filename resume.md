@@ -2,10 +2,10 @@
 
 4445 St Andrews Drive Blaine, MN 55449 | joel.elmer.carlson@outlook.com | (612) 839-0754
 
-I am pursuing the role of Principal Engineer. I have extensive automation
-expertise in Linux, NodeJS, Python, Haskell and cloud platforms. I will
-use my extensive engineering experience to deliver AI, Automation and
-Cloud projects for the most mission-critical workloads.
+AI, Automation and Cloud Consultant w/ proven leadership in the
+following industries: investment banking, energy, healthcare and
+technology. Extensive experience delivering projects w/ cloud-native
+Kubernetes, AWS, Azure and GCVE/GCP.
 
 &mdash; Github.com: https://github.com/joelelmercarlson
 
