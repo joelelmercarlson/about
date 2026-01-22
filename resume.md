@@ -7,9 +7,9 @@ following industries: investment banking, energy, healthcare and
 technology. Extensive experience delivering projects w/ cloud-native
 Kubernetes, AWS, Azure and GCVE/GCP.
 
-&mdash; Github.com: https://github.com/joelelmercarlson
+&mdash; [Github](https://github.com/joelelmercarlson)
 
-&mdash; LinkedIN: https://www.linkedin.com/in/joel-carlson-290ba0
+&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)
 
  
 # Experience
