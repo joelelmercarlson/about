@@ -1,11 +1,9 @@
 # The Consultancy
 
-<div style="text-align:center; font-size:12px;">
+<div style="text-align:center; font-size:14px;">
 
-<div><a src=resume.md>resume</a></div>
-<div><a src=automator.md>automator</a></div>
-<div><a src=consultant.md>consultant</a></div>
-<div><a src=devops.md>devops</a></div>
+<div><a href="resume.html">resume</a></div>
+<div><a href="consultant.html">consultant</a></div>
 
 </div>
 
