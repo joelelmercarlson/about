@@ -1,0 +1,10 @@
+[project]
+name = "about"
+version = "0.1.0"
+description = "About Joel E Carlson"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "markdown>=3.10.1",
+]
+

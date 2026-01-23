@@ -30,19 +30,23 @@ def convert_file(md_file_path: str, output_html_path: str):
     with open(md_file_path, "r", encoding="utf-8") as md_file:
         md_content = md_file.read()
 
-    html_header = """<!DOCTYPE html>
+    html_content = markdown_to_html(md_content)
+
+    html_document = f"""
+    <!DOCTYPE html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
-    <title>loki</title>
+    <title>The Consultancy</title>
+    <link rel="style" href="legal.css">
     </head>
+    <body>
+    {html_content}
+    </body></html>
     """
-    html_footer = """</body></html>"""
-
-    html_content = markdown_to_html(md_content)
 
     with open(output_html_path, "w", encoding="utf-8") as html_file:
-        html_file.write(html_header + html_content + html_footer)
+        html_file.write(html_document)
 
     print(f"- HTML file created: {output_html_path}")
 
