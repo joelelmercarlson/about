@@ -38,7 +38,7 @@ def convert_file(md_file_path: str, output_html_path: str):
     <head>
     <meta charset="UTF-8">
     <title>The Consultancy</title>
-    <link rel="style" href="legal.css">
+    <link rel="style" href="clean.css">
     </head>
     <body>
     {html_content}
