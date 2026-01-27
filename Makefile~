@@ -1,0 +1,22 @@
+NODE    := node
+ADVPNG  := advpng -z -2
+RSYNC   := rsync -av
+
+HOMEDIR := $(HOME)
+ABOUT   := $(HOME)/about
+HTML    := $(ABOUT)/html
+MD_TO_HTML := uv run markdown_to_html.py
+MDS     := $(wildcard $(ABOUT)/*.md)
+WEB     := /var/www/html
+
+all: process 
+.PHONY: all
+
+install: 
+	sudo cp -r $(HTML) $(WEB)
+
+process:
+	for f in $(MDS); do \
+		echo "$$f"; \
+		$(MD_TO_HTML) $$f html/$$f; \
+	done

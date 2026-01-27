@@ -9,7 +9,7 @@ is ideal for organizations that need senior-level expertise without a
 permanent hire, ensuring access to world-class engineering leadership
 on demand.
 
-# Key Responsibilities
+# Responsibilities
 
 - Strategic Advisory: Assess client systems and recommend long-term technical strategies aligned with business objectives.
 - Architecture & Design: Deliver high-level system designs and frameworks that ensure scalability, security, and performance.
