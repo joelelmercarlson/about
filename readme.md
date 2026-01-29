@@ -4,6 +4,7 @@
 
 <div><a href="resume.html">resume</a></div>
 <div><a href="consultant.html">consultant</a></div>
+<div><a href="mission.html">mission</a></div>
 
 </div>
 
