@@ -1,11 +1,10 @@
 # Mission Statement
-
-The Consultancy excersizes professional skills in
-collaboration with other exceptional practitioners to creatively solve
-difficult and engaging problems for our clients. Our engineers use
-their deep expertise and problem-solving skills to make the difference,
-by applying techniques in infrastructure and software design,
-using modern architecture and innovative methods.
+The Consultancy world-class professionals collaborate with other
+exceptional practitioners to creatively solve difficult and engaging
+problems for our clients. Our consultants use their deep expertise and
+problem-solving skills to make the difference, by applying techniques
+in infrastructure and software design, using modern architecture and
+innovative methods.
 
 # Solving the Hardest Problems, Together
 The Consultancy collaborates to creatively solve the most complex and
@@ -13,8 +12,8 @@ engaging client challenges. We envision a future where our expertise
 in enterprise compute, cloud, and artificial intelligence transforms
 difficult problems into innovative, sustainable solutions—empowering
 organizations to thrive. By applying cutting-edge techniques in
-infrastructure, software design, and modern architecture, we ensure that every
-solution reflects our commitment to excellence, ethics, and impact.
+infrastructure, software design, and modern architecture, we ensure that
+every solution reflects our commitment to excellence, ethics, and impact.
 
 # Client Services
 Our team is comprised of world-class architects, engineers, and developers
@@ -24,7 +23,7 @@ security, and ethical responsibility, ensuring clients
 benefit from cutting-edge technology that is accessible, reliable,
 and sustainable.
 
-### Domains of Expertise
+# Domains of Expertise
 - Artificial Intelligence – Driving responsible AI innovation to create equitable opportunities.
 - Cloud Migration & Hosting – Enabling global access to scalable, secure infrastructure.
 - Hyper-scale & Enterprise Compute – Building resilient systems that support business continuity and growth.

@@ -7,11 +7,6 @@ expertise in Linux, NodeJS, Python, Haskell and cloud platforms. I will
 use my extensive engineering experience to deliver AI, Automation and
 Cloud projects for the most mission-critical workloads.
 
-&mdash; [Github](https://github.com/joelelmercarlson)
-
-&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)
-
- 
 # Experience
 
 Optum | Eden Prairie, MN | Principal Engineer | 2010 – 2025

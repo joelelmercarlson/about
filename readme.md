@@ -1,10 +1,11 @@
 # The Consultancy
 
-<div style="text-align:center; font-size:14px;">
+<div style="text-align:center; font-size:12px;">
 
-<div><a href="resume.html">resume</a></div>
-<div><a href="consultant.html">consultant</a></div>
-<div><a href="mission.html">mission</a></div>
+<a href="resume.html">resume</a> |
+<a href="consultant.html">consultant</a> |
+<a href="mission.html">mission</a> |
+<a href="tools.html">tools</a>
 
 </div>
 
@@ -55,9 +56,3 @@ clients implement the art of the possible.
 # Locations
 
 &mdash; North-America, Asia/Pacific.
-
-# Contact
-
-Lets talk about your project.
-
-&mdash; "Joel E Carlson" &lt;joel.elmer.carlson@outlook.com&gt;

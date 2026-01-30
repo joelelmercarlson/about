@@ -63,13 +63,3 @@ influence and accomplish strategic architecture objectives.
 - Significant knowledge and have one or more areas of concentrated technical expertise.
 - Demonstrated ability to explain highly technical solutions to technical and non-technical teams.
 
-
-# Contact
-
-Lets talk about your project.
-
-"Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
-
-&mdash; [Github](https://github.com/joelelmercarlson/about)
-
-&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)

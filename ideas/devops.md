@@ -73,9 +73,3 @@
 - Technology
 - Deep relationships w/ global cohort of technology experts
 - We can help our clients get to the next level
-
-# Contact
-
-Lets talk about your project.
-
-&mdash; "Joel E Carlson" &lt;joel.elmer.carlson@outlook.com&gt;

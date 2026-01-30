@@ -1,19 +1,15 @@
 # tools
 
-The Consultancy utilizes the following tools in day to day delivery of
-value to our clients.
-
 <div style="text-align:center; text-size:12px;">
 
-[emacs](https://www.gnu.org/software/emacs) |
-[github](https://github.com/joelelmercarlson) |
-[linux](https://www.kernel.org/) |
-[nodejs](https://nodejs.org/en) |
-[nvm](https://github.com/nvm-sh/nvm) |
-[python](https://www.python.org) |
-[redhat](https://www.redhat.com) |
-[stackage](https://www.stackage.org) |
-[ubuntu](https://www.ubuntu.com) |
-[uv](https://docs.astral.sh/uv)
+<a href="https://www.gnu.org/software/emacs">emacs</a> |
+<a href="https://github.com/joelelmercarlson">github</a> |
+<a href="https://www.kernel.org/">linux</a> |
+<a href="https://nodejs.org/en">nodejs</a> |
+<a href="https://www.python.org">python</a> |
+<a href="https://www.redhat.com">redhat</a> |
+<a href="https://www.stackage.org">stackage</a> |
+<a href="https://www.ubuntu.com">ubuntu</a> |
+<a href="https://docs.astral.sh/uv">uv</a>
 
 </div>
