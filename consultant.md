@@ -1,6 +1,6 @@
 # Principal Engineer
 
-The Principal Engineer Consultant will provide external
+The Principal Engineer will provide external
 technical leadership and strategic guidance across critical engineering
 initiatives. As an independent expert, the consultant will partner with
 client organizations to design scalable architectures, solve complex
@@ -37,19 +37,8 @@ on demand.
 
 # Impact
 
-The Principal Engineer Consultant acts as a trusted external partner,
+The Principal Engineer acts as a trusted external partner,
 enabling organizations to access senior-level technical leadership without
 long-term overhead. By combining strategic vision with hands-on expertise,
 the consultant ensures that engineering decisions drive sustainable
 business success.
-
-
-# Contact
-
-Lets talk about your project.
-
-"Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
-
-&mdash; [Github](https://github.com/joelelmercarlson/about)
-
-&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)

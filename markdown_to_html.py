@@ -32,6 +32,11 @@ def convert_file(md_file_path: str, output_html_path: str):
 
     html_content = markdown_to_html(md_content)
 
+    with open("contact.md", "r", encoding="utf-8") as template_file:
+        footer_content = template_file.read()
+
+    html_footer = markdown_to_html(footer_content)
+
     html_document = f"""
     <!DOCTYPE html>
     <html lang="en">
@@ -42,7 +47,9 @@ def convert_file(md_file_path: str, output_html_path: str):
     </head>
     <body>
     {html_content}
-    </body></html>
+    {html_footer}
+    </body>
+    </html>
     """
 
     with open(output_html_path, "w", encoding="utf-8") as html_file:

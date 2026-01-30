@@ -34,12 +34,6 @@ and sustainable.
 # Who do we serve?
 Our clients have complexity they need to manage, interesting problems
 that need solutions, systems that need enhancement or integration,
-opportunities to engineer and build better systems. We have successfully deployed
-large-scale solutions to meet our clients automation, data collection and
-analysis, and service provisioning.
-
-# Contact
-
-Lets talk about your project.
-
-&mdash; "Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
+opportunities to engineer and build better systems. We have successfully
+deployed large-scale solutions to meet our clients automation, data
+collection and analysis, and service provisioning.
