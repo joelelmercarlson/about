@@ -47,3 +47,14 @@ clients implement the art of the possible.
 # Locations
 
 &mdash; North-America, Asia/Pacific.
+
+
+# Contact
+
+Lets talk about your project.
+
+"Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
+
+&mdash; [Github](https://github.com/joelelmercarlson/about)
+
+&mdash; [LinkedIN](https://www.linkedin.com/in/joel-carlson-290ba0)
