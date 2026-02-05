@@ -9,7 +9,7 @@ Cloud projects for the most mission-critical workloads.
 
 # Experience
 
-Optum | Eden Prairie, MN | Principal Engineer | 2010 – 2025
+Optum | Eden Prairie, MN | Principal Engineer | 2015 – 2025
 
 - Architecture & Engineering & Production Support for following platforms: Linux, RedHat Enterprise Linux, AIX, Ubuntu, Solaris, Exadata, Oracle, Hadoop, Kubernetes, VMWare, Nutanix.
 - DevOps Engineering & Production Support for following: GitHub, Jenkins, Ansible; Terraform, Kubernetes and containers.
