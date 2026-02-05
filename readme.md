@@ -9,15 +9,6 @@
 
 </div>
 
-# Trusted Technical Leadership
-
-The Consultancy provides information technology services in the industries
-of health care, energy, investment banking, and technology. The Company
-is especially strong in health care industries providing services such
-as AI, Cloud Modernization, and Automation. The Consultancy's approach
-combines the deep technical expertise that enterprises demand with the
-agility to stay ahead of the technology curve.
-
 # Deep Technical Expertise
 
 The Consultancy collaborates with world-leading organizations to enable

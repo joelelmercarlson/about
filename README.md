@@ -2,18 +2,12 @@
 
 <div style="text-align:center; font-size:12px;">
 
-[resume](resume.md) | [consultant](consultant.md)
+<a href="resume.html">resume</a> |
+<a href="consultant.html">consultant</a> |
+<a href="mission.html">mission</a> |
+<a href="tools.html">tools</a>
 
 </div>
-
-# Trusted Technical Leadership
-
-The Consultancy provides information technology services in the industries
-of health care, energy, investment banking, and technology. The Company
-is especially strong in health care industries providing services such
-as AI, Cloud Modernization, and Automation. The Consultancy's approach
-combines the deep technical expertise that enterprises demand with the
-agility to stay ahead of the technology curve.
 
 # Deep Technical Expertise
 
@@ -53,9 +47,3 @@ clients implement the art of the possible.
 # Locations
 
 &mdash; North-America, Asia/Pacific.
-
-# Contact
-
-Lets talk about your project.
-
-&mdash; "Joel E Carlson" &lt;joel.elmer.carlson@outlook.com&gt;
