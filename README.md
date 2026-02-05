@@ -2,10 +2,10 @@
 
 <div style="text-align:center; font-size:12px;">
 
-<a href="resume.html">resume</a> |
-<a href="consultant.html">consultant</a> |
-<a href="mission.html">mission</a> |
-<a href="tools.html">tools</a>
+<a href="resume.md">resume</a> |
+<a href="consultant.md">consultant</a> |
+<a href="mission.md">mission</a> |
+<a href="tools.md">tools</a>
 
 </div>
 
