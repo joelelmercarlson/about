@@ -11,38 +11,23 @@
 
 # Deep Technical Expertise
 
-The Consultancy collaborates with world-leading organizations to enable
-powerful technologies and agile processes&mdash;enhancing value and
-impact. From AI and Automation to Analytics and the Cloud, we can help
-clients implement the art of the possible.
+Joel E Carlson collaborates with world-leading organizations to improve
+business performance, turn risk into opportunities, enable powerful
+technologies and agile processes&mdash;enhancing value throughout the
+organization. From AI and Automation to advanced analytics and the cloud,
+we can help clients implement the art of the possible.
 
-&mdash; 30+ years Linux Open Source Software &amp; Solutions
+&mdash; 20+ Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
 
-&mdash; 30+ years C/C++ development
+&mdash; 20+ years IT Service Management and cyber-security incident resposne.
 
-&mdash; 30+ years Haskell functional programming development 
-
-&mdash; 25+ years Python development and automation
-
-&mdash; 20+ years hyper-scale datacenter virtualization and automation
-
-&mdash; 20+ years Enterprise Compute, Storage and Networking
-
-&mdash; 20+ years IT Service Management and Regulatory Compliance (STIG/DISA/FISMA)
-
-&mdash; 20+ years DNS, L0-L7 Full-stack, GTM/LTM
-
-&mdash; 15+ years SDN, SDS, IPAM, NF/NFV
+&mdash; 20+ years Python development and automation
 
 &mdash; 15+ years Java, Javascript, NodeJS development 
 
-&mdash; 10+ years Cloud Modernization and Migration
+&mdash; 10+ years AI, Analytics and Cloud.
 
 &mdash; 10+ years containers and kubernetes
-
-&mdash; 5+ years Go development
-
-&mdash; 5+ years AI development
 
 # Locations
 
