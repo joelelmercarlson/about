@@ -15,7 +15,7 @@ Joel E Carlson collaborates with world-leading organizations to improve
 business performance, turn risk into opportunities, enable powerful
 technologies and agile processes&mdash;enhancing value throughout the
 organization. From AI and Automation to advanced analytics and the cloud,
-we can help clients implement the art of the possible.
+I can help clients implement the art of the possible.
 
 &mdash; 20+ Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
 
