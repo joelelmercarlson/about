@@ -13,12 +13,11 @@ Optum | Eden Prairie, MN | Principal Engineer | 2015 – 2025
 
 - Architecture & Engineering & Production Support for following platforms: Linux, RedHat Enterprise Linux, AIX, Ubuntu, Solaris, Exadata, Oracle, Hadoop, Kubernetes, VMWare, Nutanix.
 - DevOps Engineering & Production Support for following: GitHub, Jenkins, Ansible; Terraform, Kubernetes and containers.
+- Mission-critical workloads: EMR for patient facing care, Tricare and HealthCare.gov.
+- Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
+- Vendor relationship of strategic partners: RedHat, HP, Dell, IBM and Broadcom.
 - Lead successful datacenter migrations into public clouds.
-- Lead, delivered results, for capital projects like datacenter rationalization.
 - Proven leadership w/ globally distributed teams.
-- Hands-On with customer facing commercialization: Tricare and HealthCare.gov.
-- Vendor relationship of key infrastructure partners: RedHat, HP, Dell, Broadcom/Brocade and VMWare.
-- Consistent delivery of leadership and innovative solutions to the company.
 
 # Education
 
