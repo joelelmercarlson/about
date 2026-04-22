@@ -23,11 +23,7 @@ I can help clients implement the art of the possible.
 
 &mdash; 20+ years Python development and automation
 
-&mdash; 15+ years Java, Javascript, NodeJS development 
-
-&mdash; 10+ years AI, Analytics and Cloud.
-
-&mdash; 10+ years containers and kubernetes
+&mdash; 20+ years Data Center, Enterprise Compute, Network and Storage.
 
 # Locations
 
