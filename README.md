@@ -3,9 +3,7 @@
 <div style="text-align:center; font-size:12px;">
 
 <a href="resume.md">resume</a> |
-<a href="consultant.md">consultant</a> |
-<a href="mission.md">mission</a> |
-<a href="tools.md">tools</a>
+<a href="consultant.md">consultant</a>
 
 </div>
 
