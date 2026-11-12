@@ -2,7 +2,10 @@
 
 4445 St Andrews Drive Blaine, MN 55449 | joel.elmer.carlson@outlook.com | (612) 839-0754
 
-I am pursuing the role of Principal Engineer. I have extensive automation ability in Linux, NodeJS, Python, Haskell, and cloud platforms. I will use my extensive engineering experience to deliver AI, Automation and Cloud projects for the most mission-critical workloads.
+I am pursuing the role of Principal Engineer. I have extensive automation
+ability in Linux, Python, Haskell, and cloud platforms. I will
+use my extensive engineering experience to deliver AI, Automation and
+Cloud projects for the most mission-critical workloads.
 
 
 # Experience
@@ -18,6 +21,23 @@ Optum | Eden Prairie, MN | Principal Engineer | 2010 – 2025
 -	Vendor relationship of strategic partners: RedHat, HP, Dell, IBM and Broadcom.
 -	Lead successful datacenter migrations into public clouds.
 -	Proven leadership w/ globally distributed teams.
+
+Linux Consultant | Minneapolis, MN | 1995 - 2010
+
+15 years of professional industry engagements, delivering mission-critical
+IT solutions w/ Linux. I have served the following sectors: Education,
+Finance, Technology; Telecommunications, Energy and Healthcare.
+
+- University of Minnesota
+- Cray Research, Inc (HPE)
+- Swissbank (UBS)
+- Perot Systems (DELL)
+- Information Advantage, Inc (IACO)
+- Sterling Software
+- Seren Innovations (Astound)
+- Xcel Energy (XEL)
+- UnitedHealthGroup Technologies (UNH)
+- UnitedHealthCare Military Veterans (UHCMV)
 
 # Education
 
