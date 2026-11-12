@@ -15,13 +15,14 @@ technologies and agile processes&mdash;enhancing value throughout the
 organization. From AI and Automation to advanced analytics and the cloud,
 I can help clients implement the art of the possible.
 
-&mdash; 20+ Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
+&mdash; 25+ years: Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
 
-&mdash; 20+ years IT Service Management and cyber-security incident resposne.
+&mdash; 25+ years: IT Service Management and cyber-security incident response.
 
-&mdash; 20+ years Python development and automation
+&mdash; 25+ years: Python development and automation.
 
-&mdash; 20+ years Data Center, Enterprise Compute, Network and Storage.
+&mdash; 25+ years: Enterprise Compute, Network and Storage.
+
 
 # Locations
 
