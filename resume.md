@@ -10,10 +10,18 @@ Cloud projects for the most mission-critical workloads.
 
 # Experience
 
+Allied Vaughn | Edina, MN | SR Network Engineer | 2026 – Current
+
+-	Architecture & Engineering & Production Support for the following Platforms: Ubuntu, Windows Server.
+-	Cloud/Collaboration Platforms: Roundcube, NextCloud, postfix, dovecot, mariadb (SQL), Gluster Storage.
+-	End Point Security/Firewall/Networking: Palo Alto, Cisco, Cisco DUO, CrowdStrike, Rapid7.
+-	Media Services: Signiant, Media Shuttle, Aspera.
+-	Proven leadership w/ distributed teams.
+
 Optum | Eden Prairie, MN | Principal Engineer | 2010 – 2025
 
--	Architecture & Engineering & Production Support for following platforms: Linux, RedHat Enterprise Linux, AIX, Debian, Solaris, Oracle, VMWare, and Nutanix.
--	Architect & Engineering & Production Support for following storage platforms: HPE Primera, Pure Systems, Infinidat, Dell, NetApp, Brocade, ceph, gluster, VSAN, gpfs, NFS, ISCSI, FiberChannel.
+-	Architecture & Engineering & Production Support for following platforms: RedHat Enterprise Linux, AIX, Solaris, Oracle, VMWare, and Nutanix.
+-	Storage platforms: HPE Primera, Pure Systems, Infinidat, Dell, NetApp, Brocade, ceph, gluster, NFS, ISCSI, FiberChannel.
 -	Expert in Disaster Recovery / Business Continuity, ransomware response, and cybersecurity.
 -	Expert in DevOps Engineering & Production Support for following: GitHub, Jenkins, Ansible; Terraform, Kubernetes and containers.
 -	Mission-critical workloads: EMR for patient facing care, Tricare and HealthCare.gov.

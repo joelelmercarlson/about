@@ -9,20 +9,18 @@
 
 # Deep Technical Expertise
 
-Joel E Carlson collaborates with world-leading organizations to improve
-business performance, turn risk into opportunities, enable powerful
-technologies and agile processes&mdash;enhancing value throughout the
-organization. From AI and Automation to advanced analytics and the cloud,
-I can help clients implement the art of the possible.
+30 years of professional industry engagements, delivering mission-critical
+IT solutions w/ Linux. I have served the following sectors: Education,
+Finance, Technology; Telecommunications, Energy, Healthcare and Media.
 
 
-&mdash; 25+ years: Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
+&mdash; 25+ years of Deep-expertise and real-world audit and compliance: PCI DSS, HIPPA, FHIR, FTI, SOX, DISA STIG.
 
-&mdash; 25+ years: IT Service Management and cyber-security incident response.
+&mdash; 25+ years of IT Service Management and cyber-security incident response.
 
-&mdash; 25+ years: Python development and automation.
+&mdash; 25+ years of Python development and automation.
 
-&mdash; 25+ years: Enterprise Compute, Network and Storage.
+&mdash; 25+ years of Enterprise Compute, Network and Storage.
 
 
 # Locations
